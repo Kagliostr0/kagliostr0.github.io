@@ -220,6 +220,12 @@ h2 {
   font-size: 1.2rem;
 }
 
+.card h3,
+.card p,
+.card a {
+  color: var(--green);
+}
+
 .card p {
   opacity: 0.8;
   margin-bottom: 15px;
