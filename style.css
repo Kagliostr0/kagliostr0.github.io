@@ -38,7 +38,8 @@ nav {
 }
 
 .logo a,
-.logo span {
+.logo span,
+.logo {
   color: var(--green) !important;
   text-shadow: var(--green-glow);
 }
