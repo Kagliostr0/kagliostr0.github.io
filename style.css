@@ -37,15 +37,10 @@ nav {
   z-index: 1000;
 }
 
-.logo {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-size: 1.5rem;
-  font-weight: bold;
-  color: var(--green);
+.logo a,
+.logo span {
+  color: var(--green) !important;
   text-shadow: var(--green-glow);
-  letter-spacing: 3px;
 }
 
 .avatar-logo {
