@@ -43,6 +43,7 @@ nav {
   gap: 10px;
   font-size: 1.5rem;
   font-weight: bold;
+  color: var(--green);
   text-shadow: var(--green-glow);
   letter-spacing: 3px;
 }
