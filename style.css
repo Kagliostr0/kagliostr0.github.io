@@ -37,12 +37,7 @@ nav {
   z-index: 1000;
 }
 
-.logo a,
-.logo span,
-.logo {
-  color: var(--green) !important;
-  text-shadow: var(--green-glow);
-}
+
 
 .avatar-logo {
   width: 40px;
@@ -68,6 +63,11 @@ nav {
 }
 
 .nav-links a:hover {
+  text-shadow: var(--green-glow);
+}
+
+nav .logo a {
+  color: var(--green) !important;
   text-shadow: var(--green-glow);
 }
 
