@@ -1,3 +1,5 @@
+**Nivel: Básico**
+
 ## ¿Qué es Internet?
 
 Como resumen podemos decir que Internet es como se denomina comúnmente una red de redes, una gran red donde confluyen muchísimas redes alrededor del mundo. Los proveedores  de internet (ISP: internet services providers), que nos ofrecen su servicio, tiene una topología montada de routers, swiches, nodos, servidores etc. que están conectados a internet. Así mismo las Universidades los gobiernos las fuerzas armadas organizaciones y empresas etc., de todo el mundo, están conectadas a internet de diferentes formas ofreciendo sus diversos servicios. Internet permite que todas estas redes se comuniquen entre ellas y con los usuarios de entre casa.
